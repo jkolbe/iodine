@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
+## About
+Angular 16 project utilizing Contentful CMS and its GraphQL Content API
+
+## Dependencies
+Create `.env` file in the project root and set the following properties:
+* CNT_SPACE=xxx
+* CD_TOKEN=xxx
+* CP_TOKEN=xxx
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
