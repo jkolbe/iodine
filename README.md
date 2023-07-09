@@ -11,6 +11,9 @@ Create `.env` file in the project root and set the following properties:
 * CD_TOKEN=xxx
 * CP_TOKEN=xxx
 
+## Resources
+* [Apollo GraphQL for Angular](https://the-guild.dev/graphql/apollo-angular)
+
 
 ## Development server
 
